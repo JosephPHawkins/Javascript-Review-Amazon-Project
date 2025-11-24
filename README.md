@@ -260,9 +260,9 @@ This project is for educational and portfolio purposes.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- GitHub: https://github.com/JosephPHawkins
+- LinkedIn: www.linkedin.com/in/joseph-hawkins-0aa960259
+
 
 ---
 
