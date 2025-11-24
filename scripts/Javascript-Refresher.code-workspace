@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Javascript-Refresher",
+			"path": "../.."
+		},
+		{
+			"name": "javascript-amazon-project-main",
+			"path": "../../../../Downloads/javascript-amazon-project-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Javascript-Refresher"
+	}
+}
